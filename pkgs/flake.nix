@@ -12,6 +12,8 @@
     redshift.flake = false;
     sddm-chili.url = "github:MarianArlt/sddm-chili/0.1.5";
     sddm-chili.flake = false;
+    spicetify-themes.url = "github:morpheusthewhite/spicetify-themes";
+    spicetify-themes.flake = false;
     steamcompmgr.url = "github:gamer-os/steamos-compositor-plus";
     steamcompmgr.flake = false;
     libinih.url = "github:benhoyt/inih/r53";

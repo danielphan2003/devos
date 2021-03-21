@@ -556,11 +556,12 @@
         "redshift": "redshift",
         "retroarch": "retroarch",
         "sddm-chili": "sddm-chili",
+        "spicetify-themes": "spicetify-themes",
         "steamcompmgr": "steamcompmgr",
         "wii-u-gc-adapter": "wii-u-gc-adapter"
       },
       "locked": {
-        "narHash": "sha256-U1NKg2Rj7nJ2fNQiwAJjiD9zoYQ6eSRHA/viRXlkKbw=",
+        "narHash": "sha256-dR7u9Fay+SOeNCcXK2HFSe0l0QAn8azXwwvPWsHQKbk=",
         "path": "./pkgs",
         "type": "path"
       },
@@ -700,6 +701,22 @@
         "owner": "MarianArlt",
         "ref": "0.1.5",
         "repo": "sddm-chili",
+        "type": "github"
+      }
+    },
+    "spicetify-themes": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1615838651,
+        "narHash": "sha256-wUszsXoVOE58x1r/jYtX1+NpMpsCXVpm+Y7gjOV1pFc=",
+        "owner": "morpheusthewhite",
+        "repo": "spicetify-themes",
+        "rev": "8601ce680e16db4d66e19d3098af7f0fe46e495a",
+        "type": "github"
+      },
+      "original": {
+        "owner": "morpheusthewhite",
+        "repo": "spicetify-themes",
         "type": "github"
       }
     },
